@@ -1,0 +1,12 @@
+[
+    {"username":"Denys","password":"111","age":19,"sex":"male"},
+    {"username":"Andriy","password":"562","age":22,"sex":"male"},
+    {"username":"Natalia","password":"125","age":27,"sex":"female"},
+   
+    {"username":"Sophiia","password":"594","age":23,"sex":"female"},
+    {"username":"Taras","password":"758","age":23,"sex":"male"} ,
+    {"username":"Solomiia","password":"623","age":31,"sex":"female"},
+    {"username":"Olha","password":"149","age":18,"sex":"female"},
+    {"username":"Ostap","password":"983","age":26,"sex":"male"}
+   ]
+   
